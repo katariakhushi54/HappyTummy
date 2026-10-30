@@ -294,12 +294,16 @@ app.get('*', (req, res) => {
   res.send('<h1>404 - Page Not Found</h1>');
 });
 
-// Start Server
-app.listen(PORT, () => {
-  console.log(`\n======================================================`);
-  console.log(`🥗 HappyTummy - Exact Clone of leafli.in is RUNNING!`);
-  console.log(`🌐 Local URL:  http://localhost:3000`);
-  console.log(`📦 Status:     Ready to launch`);
-  console.log(`📁 Directory:  ${__dirname}`);
-  console.log(`======================================================\n`);
-});
+// Start Server if run directly
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`\n======================================================`);
+    console.log(`🥗 HappyTummy - Exact Clone of leafli.in is RUNNING!`);
+    console.log(`🌐 Local URL:  http://localhost:${PORT}`);
+    console.log(`📦 Status:     Ready to launch`);
+    console.log(`📁 Directory:  ${__dirname}`);
+    console.log(`======================================================\n`);
+  });
+}
+
+module.exports = app;
