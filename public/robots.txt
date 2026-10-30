@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /account
+Disallow: /login
+Disallow: /api/
+
+Host: https://leafli.in
+Sitemap: https://leafli.in/sitemap.xml

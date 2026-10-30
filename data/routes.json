@@ -1,0 +1,214 @@
+{
+  "/": {
+    "html": "index.html",
+    "rsc": "index.rsc"
+  },
+  "/menu": {
+    "html": "menu.html",
+    "rsc": "menu.rsc"
+  },
+  "/plans": {
+    "html": "plans.html",
+    "rsc": "plans.rsc"
+  },
+  "/healthy-food-vadodara": {
+    "html": "healthy-food-vadodara.html",
+    "rsc": "healthy-food-vadodara.rsc"
+  },
+  "/blog": {
+    "html": "blog.html",
+    "rsc": "blog.rsc"
+  },
+  "/about": {
+    "html": "about.html",
+    "rsc": "about.rsc"
+  },
+  "/faq": {
+    "html": "faq.html",
+    "rsc": "faq.rsc"
+  },
+  "/contact": {
+    "html": "contact.html",
+    "rsc": "contact.rsc"
+  },
+  "/terms": {
+    "html": "terms.html",
+    "rsc": "terms.rsc"
+  },
+  "/privacy": {
+    "html": "privacy.html",
+    "rsc": "privacy.rsc"
+  },
+  "/refunds": {
+    "html": "refunds.html",
+    "rsc": "refunds.rsc"
+  },
+  "/delivery-policy": {
+    "html": "delivery-policy.html",
+    "rsc": "delivery-policy.rsc"
+  },
+  "/login": {
+    "html": "login.html",
+    "rsc": "login.rsc"
+  },
+  "/account": {
+    "html": "account.html",
+    "rsc": "account.rsc"
+  },
+  "/cart": {
+    "html": "cart.html",
+    "rsc": "cart.rsc"
+  },
+  "/checkout": {
+    "html": "checkout.html",
+    "rsc": "checkout.rsc"
+  },
+  "/orders": {
+    "html": "orders.html",
+    "rsc": "orders.rsc"
+  },
+  "/admin": {
+    "html": "admin.html",
+    "rsc": "admin.rsc"
+  },
+  "/menu/classic-chicken-caesar-salad": {
+    "html": "menu__classic-chicken-caesar-salad.html",
+    "rsc": "menu__classic-chicken-caesar-salad.rsc"
+  },
+  "/menu/asian-noodle-salad": {
+    "html": "menu__asian-noodle-salad.html",
+    "rsc": "menu__asian-noodle-salad.rsc"
+  },
+  "/menu/desi-mango-sprout-salad": {
+    "html": "menu__desi-mango-sprout-salad.html",
+    "rsc": "menu__desi-mango-sprout-salad.rsc"
+  },
+  "/menu/salad-caprese": {
+    "html": "menu__salad-caprese.html",
+    "rsc": "menu__salad-caprese.rsc"
+  },
+  "/menu/greek-hummus-salad": {
+    "html": "menu__greek-hummus-salad.html",
+    "rsc": "menu__greek-hummus-salad.rsc"
+  },
+  "/menu/roasted-potato-apple-salad": {
+    "html": "menu__roasted-potato-apple-salad.html",
+    "rsc": "menu__roasted-potato-apple-salad.rsc"
+  },
+  "/menu/roasted-potato-apple-salad-eggless": {
+    "html": "menu__roasted-potato-apple-salad-eggless.html",
+    "rsc": "menu__roasted-potato-apple-salad-eggless.rsc"
+  },
+  "/menu/dark-chocolate-fruit-bowl": {
+    "html": "menu__dark-chocolate-fruit-bowl.html",
+    "rsc": "menu__dark-chocolate-fruit-bowl.rsc"
+  },
+  "/plans/taster-week": {
+    "html": "plans__taster-week.html",
+    "rsc": "plans__taster-week.rsc"
+  },
+  "/plans/fortnight-fresh": {
+    "html": "plans__fortnight-fresh.html",
+    "rsc": "plans__fortnight-fresh.rsc"
+  },
+  "/plans/monthly-green": {
+    "html": "plans__monthly-green.html",
+    "rsc": "plans__monthly-green.rsc"
+  },
+  "/plans/protein-pro": {
+    "html": "plans__protein-pro.html",
+    "rsc": "plans__protein-pro.rsc"
+  },
+  "/blog/fruit-bowl-delivery-in-vadodara": {
+    "html": "blog__fruit-bowl-delivery-in-vadodara.html",
+    "rsc": "blog__fruit-bowl-delivery-in-vadodara.rsc"
+  },
+  "/blog/salad-food-safety-cloud-kitchen": {
+    "html": "blog__salad-food-safety-cloud-kitchen.html",
+    "rsc": "blog__salad-food-safety-cloud-kitchen.rsc"
+  },
+  "/blog/healthy-eating-for-students-vadodara": {
+    "html": "blog__healthy-eating-for-students-vadodara.html",
+    "rsc": "blog__healthy-eating-for-students-vadodara.rsc"
+  },
+  "/blog/healthy-late-night-food-in-vadodara": {
+    "html": "blog__healthy-late-night-food-in-vadodara.html",
+    "rsc": "blog__healthy-late-night-food-in-vadodara.rsc"
+  },
+  "/blog/low-calorie-food-delivery-in-vadodara": {
+    "html": "blog__low-calorie-food-delivery-in-vadodara.html",
+    "rsc": "blog__low-calorie-food-delivery-in-vadodara.rsc"
+  },
+  "/blog/healthy-gujarati-food-swaps": {
+    "html": "blog__healthy-gujarati-food-swaps.html",
+    "rsc": "blog__healthy-gujarati-food-swaps.rsc"
+  },
+  "/blog/post-workout-meals-vadodara": {
+    "html": "blog__post-workout-meals-vadodara.html",
+    "rsc": "blog__post-workout-meals-vadodara.rsc"
+  },
+  "/blog/winter-salads-vadodara": {
+    "html": "blog__winter-salads-vadodara.html",
+    "rsc": "blog__winter-salads-vadodara.rsc"
+  },
+  "/blog/vegetarian-weight-loss-meal-plan-vadodara": {
+    "html": "blog__vegetarian-weight-loss-meal-plan-vadodara.html",
+    "rsc": "blog__vegetarian-weight-loss-meal-plan-vadodara.rsc"
+  },
+  "/blog/healthy-diwali-eating-vadodara": {
+    "html": "blog__healthy-diwali-eating-vadodara.html",
+    "rsc": "blog__healthy-diwali-eating-vadodara.rsc"
+  },
+  "/blog/salad-subscription-in-vadodara": {
+    "html": "blog__salad-subscription-in-vadodara.html",
+    "rsc": "blog__salad-subscription-in-vadodara.rsc"
+  },
+  "/blog/healthy-office-lunch-in-vadodara": {
+    "html": "blog__healthy-office-lunch-in-vadodara.html",
+    "rsc": "blog__healthy-office-lunch-in-vadodara.rsc"
+  },
+  "/blog/high-protein-vegetarian-food-in-vadodara": {
+    "html": "blog__high-protein-vegetarian-food-in-vadodara.html",
+    "rsc": "blog__high-protein-vegetarian-food-in-vadodara.rsc"
+  },
+  "/blog/order-healthy-food-online-in-vadodara": {
+    "html": "blog__order-healthy-food-online-in-vadodara.html",
+    "rsc": "blog__order-healthy-food-online-in-vadodara.rsc"
+  },
+  "/blog/best-salads-in-vadodara": {
+    "html": "blog__best-salads-in-vadodara.html",
+    "rsc": "blog__best-salads-in-vadodara.rsc"
+  },
+  "/blog/how-to-keep-salad-fresh-and-crisp": {
+    "html": "blog__how-to-keep-salad-fresh-and-crisp.html",
+    "rsc": "blog__how-to-keep-salad-fresh-and-crisp.rsc"
+  },
+  "/blog/high-protein-vegetarian-salad-ideas": {
+    "html": "blog__high-protein-vegetarian-salad-ideas.html",
+    "rsc": "blog__high-protein-vegetarian-salad-ideas.rsc"
+  },
+  "/blog/how-to-build-a-balanced-salad-bowl": {
+    "html": "blog__how-to-build-a-balanced-salad-bowl.html",
+    "rsc": "blog__how-to-build-a-balanced-salad-bowl.rsc"
+  },
+  "/blog/category/vadodara-guides": {
+    "html": "blog__category__vadodara-guides.html",
+    "rsc": "blog__category__vadodara-guides.rsc"
+  },
+  "/blog/category/from-our-kitchen": {
+    "html": "blog__category__from-our-kitchen.html",
+    "rsc": "blog__category__from-our-kitchen.rsc"
+  },
+  "/blog/category/healthy-eating": {
+    "html": "blog__category__healthy-eating.html",
+    "rsc": "blog__category__healthy-eating.rsc"
+  },
+  "/blog/category/nutrition": {
+    "html": "blog__category__nutrition.html",
+    "rsc": "blog__category__nutrition.rsc"
+  },
+  "/blog/page/2": {
+    "html": "blog__page__2.html",
+    "rsc": "blog__page__2.rsc"
+  }
+}
